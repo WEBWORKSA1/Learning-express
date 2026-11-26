@@ -1,0 +1,32 @@
+{
+  "_note": "Edit prizes/status here, then the daily workflow (or python3 build/build.py) republishes contests.html.",
+  "contests": [
+    {
+      "name": "30-Day Learning Streak Challenge",
+      "status": "OPEN · MONTHLY",
+      "color": "#FF5A1F",
+      "about": "Learn something every day for 30 days on any Express Line. Keep your Daily Quiz streak alive and log what you studied.",
+      "how": "Share a screenshot of your 30-day streak plus a short learning log (doc or post link).",
+      "prizes": ["1st: $100 learning gift card", "2nd: $50 learning gift card", "3rd: $25 learning gift card", "All finishers: featured on the Streak Wall"],
+      "judging": "Completeness of the streak (40%), quality of the learning log (40%), progress shown (20%)."
+    },
+    {
+      "name": "Explain-It-Simply Video Contest",
+      "status": "OPEN · MONTHLY",
+      "color": "#6D28D9",
+      "about": "Use the Feynman technique: explain one concept from any Express Line in a video under 3 minutes.",
+      "how": "Upload to YouTube (public or unlisted) and submit the link.",
+      "prizes": ["Winner: $150 + featured on our Video Express page", "Runner-up: $50", "Creator shortlist: paid commission offer"],
+      "judging": "Clarity (40%), accuracy (30%), creativity (20%), production (10%)."
+    },
+    {
+      "name": "Mini-Project Showcase",
+      "status": "OPEN · MONTHLY",
+      "color": "#14A44D",
+      "about": "Build a small project from any station — a website, analysis, budget model, campaign or lesson plan.",
+      "how": "Submit a link to your project and a 150-word write-up of what you learned.",
+      "prizes": ["Best project: $100", "People's pick: $50", "Top 10: portfolio feature + certificate of recognition"],
+      "judging": "Usefulness (35%), skill demonstrated (35%), write-up (30%)."
+    }
+  ]
+}

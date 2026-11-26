@@ -1,0 +1,42 @@
+{
+  "_note": "Daily auto-refresh sources. YouTube channels are read via their public RSS feeds; invalid IDs are skipped automatically.",
+  "channels": [
+    {"name": "Khan Academy", "id": "UC4a-Gbdw7vOaccHmFo40b9g", "cats": ["math", "sci", "fin"]},
+    {"name": "CrashCourse", "id": "UCX6b17PVsYBQ0ip5gyeme-Q", "cats": ["sci", "study", "biz"]},
+    {"name": "freeCodeCamp", "id": "UC8butISFwT-Wl7EV0hUK0BQ", "cats": ["web", "data", "ai"]},
+    {"name": "TED-Ed", "id": "UCsooa4yRKGN_zEE8iknghZA", "cats": ["sci", "study"]},
+    {"name": "MIT OpenCourseWare", "id": "UCEBb1b_L6zDS3xTUrIALZOw", "cats": ["math", "sci", "ai"]},
+    {"name": "CS50", "id": "UCcabW7890RKJzL968QWEykA", "cats": ["web", "ai"]},
+    {"name": "3Blue1Brown", "id": "UCYO_jab_esuFRV4b17AJtAw", "cats": ["math", "ai"]},
+    {"name": "Veritasium", "id": "UCHnyfMqiRRG1u-2MsSQLbXA", "cats": ["sci"]},
+    {"name": "Kurzgesagt", "id": "UCsXVk37bltHxD1rDPwtNM8Q", "cats": ["sci"]},
+    {"name": "Fireship", "id": "UCsBjURrPoezykLs9EqgamOA", "cats": ["web", "ai"]},
+    {"name": "StatQuest", "id": "UCtYLUTtgS3k1Fg4y5tAhLbw", "cats": ["data", "ai"]},
+    {"name": "Two Minute Papers", "id": "UCbfYPyITQ-7l4upoX8nvctg", "cats": ["ai"]},
+    {"name": "Ali Abdaal", "id": "UCoOae5nYA7VqaXzerajD0lg", "cats": ["study", "biz", "job"]},
+    {"name": "Thomas Frank", "id": "UCG-KntY7aVnIGXYEBQvmBAQ", "cats": ["study"]},
+    {"name": "Y Combinator", "id": "UCcefcZRL2oaA_uBNeo5UOWg", "cats": ["biz"]},
+    {"name": "Ahrefs", "id": "UCWquNQV8Y0_defMKnGKrFOQ", "cats": ["mkt"]},
+    {"name": "Neil Patel", "id": "UCl-Zrl0QhF66lu1aGXaTbfw", "cats": ["mkt", "biz"]},
+    {"name": "The Plain Bagel", "id": "UCFCEuCsyWP0YkP3CZ3Mr01Q", "cats": ["fin"]},
+    {"name": "Ben Felix", "id": "UCDXTQ8nWmx_EhZ2v-kp7QxA", "cats": ["fin"]},
+    {"name": "Easy German", "id": "UCbxb2fqe9oNgglAoYqsYOtQ", "cats": ["lang"]},
+    {"name": "Professor Leonard", "id": "UCoHhuummRZaIVX7bD4t2czg", "cats": ["math"]},
+    {"name": "The Organic Chemistry Tutor", "id": "UCEWpbFLzoYGPfuWUMFPSaoA", "cats": ["math", "sci"]},
+    {"name": "Osmosis", "id": "UCNI0qOojpkhsUtaQ4_2NUhQ", "cats": ["care"]},
+    {"name": "Ninja Nerd", "id": "UC6QYFutt9cluQ3uSM963_KQ", "cats": ["care"]},
+    {"name": "Jeff Su", "id": "UCwAnu01qlnVg1Ai2AbtTMaA", "cats": ["job", "ai"]}
+  ],
+  "feeds": [
+    {"name": "EdSurge", "url": "https://www.edsurge.com/articles_rss"},
+    {"name": "Class Central", "url": "https://www.classcentral.com/report/feed/"},
+    {"name": "freeCodeCamp News", "url": "https://www.freecodecamp.org/news/rss/"},
+    {"name": "Khan Academy Blog", "url": "https://blog.khanacademy.org/feed/"},
+    {"name": "MIT News", "url": "https://news.mit.edu/rss/topic/education"},
+    {"name": "Hechinger Report", "url": "https://hechingerreport.org/feed/"},
+    {"name": "eSchool News", "url": "https://www.eschoolnews.com/feed/"},
+    {"name": "Edutopia", "url": "https://www.edutopia.org/rss.xml"},
+    {"name": "The Conversation", "url": "https://theconversation.com/us/education/articles.atom"},
+    {"name": "Inside Higher Ed", "url": "https://www.insidehighered.com/rss.xml"}
+  ]
+}

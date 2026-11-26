@@ -1,0 +1,133 @@
+"""Shared page shell for Learning-Express (static generator)."""
+import json, html
+
+SITE_NAME = "Learning-Express"
+# Change SITE_URL when the custom domain is attached (also update CNAME).
+SITE_URL = "https://webworksa1.github.io/learning-express"
+ADSENSE = '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6620975821265271" crossorigin="anonymous"></script>'
+
+LOGO = '''<svg viewBox="0 0 40 40" aria-hidden="true"><rect width="40" height="40" rx="11" fill="#0E1330"/>
+<path d="M9 28h22" stroke="#B8F24A" stroke-width="3" stroke-linecap="round"/>
+<path d="M12 10v13h9" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<path d="M24 12h7M26 17h5M28 22h3" stroke="#FF5A1F" stroke-width="2.6" stroke-linecap="round"/></svg>'''
+
+NAV = [
+    ("paths.html", "Express Lines"),
+    ("videos.html", "Videos"),
+    ("tools.html", "Study Tools"),
+    ("quiz.html", "Daily Quiz"),
+    ("guides.html", "Guides"),
+    ("news.html", "News"),
+    ("contests.html", "Contests"),
+]
+
+def esc(s):
+    return html.escape(str(s), quote=True)
+
+def head(title, desc, path, extra_ld=None, og_type="website"):
+    url = f"{SITE_URL}/{'' if path == 'index.html' else path}"
+    full_title = title if title.startswith(SITE_NAME) else f"{title} | {SITE_NAME}"
+    ld = [{
+        "@context": "https://schema.org", "@type": "WebSite", "name": SITE_NAME, "url": SITE_URL + "/",
+        "potentialAction": {"@type": "SearchAction", "target": SITE_URL + "/paths.html?q={q}", "query-input": "required name=q"}
+    }, {
+        "@context": "https://schema.org", "@type": "EducationalOrganization", "name": SITE_NAME, "url": SITE_URL + "/",
+        "logo": SITE_URL + "/assets/img/logo-512.png", "description": "Free express learning lines, study tools and program matching."
+    }]
+    if extra_ld:
+        ld.extend(extra_ld if isinstance(extra_ld, list) else [extra_ld])
+    return f'''<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>{esc(full_title)}</title>
+<meta name="description" content="{esc(desc)}">
+<link rel="canonical" href="{esc(url)}">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<meta name="theme-color" content="#0E1330">
+<meta property="og:type" content="{og_type}"><meta property="og:site_name" content="{SITE_NAME}">
+<meta property="og:title" content="{esc(full_title)}"><meta property="og:description" content="{esc(desc)}">
+<meta property="og:url" content="{esc(url)}"><meta property="og:image" content="{SITE_URL}/assets/img/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="assets/img/logo-512.png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+<script>(function(){{try{{var t=JSON.parse(localStorage.getItem("lx:theme"));if(t)document.documentElement.setAttribute("data-theme",t);var c=JSON.parse(localStorage.getItem("lx:consent"));if(c==="essential"){{(window.adsbygoogle=window.adsbygoogle||[]).requestNonPersonalizedAds=1;}}}}catch(e){{}}}})();</script>
+{ADSENSE}
+<script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
+</head>
+'''
+
+def header(active):
+    cur = ' aria-current="page"'
+    links = "".join(
+        f'<a href="{h}"{cur if h == active else ""}>{esc(t)}</a>' for h, t in NAV
+    )
+    return f'''<body>
+<a class="skip" href="#main">Skip to content</a>
+<div class="ribbon"><a data-contact href="#" title="Partnership inquiries">Contact, if you are interested in this website/domain name/Sponsorship/Advertisement/Partnership</a></div>
+<header class="hdr"><div class="wrap">
+<a class="logo" href="index.html" aria-label="{SITE_NAME} home">{LOGO}<span>Learning<b>-</b>Express</span></a>
+<button class="icon-btn menu-btn" aria-label="Open menu" aria-expanded="false"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+<nav class="nav" aria-label="Main">{links}
+<span class="tools-r"><a class="btn sm signal" href="match.html" style="color:#fff">Free Program Match</a>
+<button class="icon-btn" data-theme-toggle aria-label="Toggle dark mode"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg></button></span>
+</nav>
+</div></header>
+<main id="main">
+'''
+
+NL_MODAL = '''<div class="modal" id="nlModal" role="dialog" aria-modal="true" aria-labelledby="nlT">
+<div class="modal-box">
+<button class="icon-btn modal-x" data-close aria-label="Close">✕</button>
+<span class="pill">FREE · PRINTABLE</span>
+<h3 id="nlT" style="margin-top:12px">Get the 30-Day Express Study Planner</h3>
+<p>One page a day, built on active recall and spaced repetition. Plus the weekly “Express 5” — five free lessons worth your time.</p>
+<form class="form" data-lx="Lead magnet: 30-day planner" data-ok='Done! Your planner is unlocked: <a href="planner.html">open the 30-Day Express Planner</a>.'>
+<label class="f">First name<input name="name" autocomplete="given-name" required></label>
+<label class="f">Email<input type="email" name="email" autocomplete="email" required></label>
+<input type="hidden" name="list" value="Express Weekly + Planner">
+<div class="hp"><input name="_gotcha" tabindex="-1" autocomplete="off"></div>
+<button class="btn signal block" type="submit">Send me the planner</button>
+<p class="note">No spam. Unsubscribe anytime. See our <a href="privacy.html">Privacy Policy</a>.</p>
+</form>
+</div></div>'''
+
+def footer(extra_js=""):
+    return f'''</main>
+<footer class="ftr"><div class="wrap">
+<div class="ftr-grid">
+<div><a class="logo" href="index.html">{LOGO}<span>Learning<b>-</b>Express</span></a>
+<p style="margin-top:14px;font-size:.92rem">The express lane to free learning: 12 guided learning lines, curated video lessons, free study tools and an honest program-matching service.</p>
+<p style="font-size:.85rem">Learning streak: <strong data-streak>1</strong> day(s) 🔥</p></div>
+<div><h4>Learn</h4><ul><li><a href="paths.html">Express Lines</a></li><li><a href="videos.html">Video Library</a></li><li><a href="guides.html">Study Guides</a></li><li><a href="news.html">Learning News</a></li></ul></div>
+<div><h4>Practice</h4><ul><li><a href="tools.html">Study Tools</a></li><li><a href="quiz.html">Daily Quiz</a></li><li><a href="planner.html">30-Day Planner</a></li><li><a href="match.html">Program Match</a></li></ul></div>
+<div><h4>Get involved</h4><ul><li><a href="support.html">Support Us</a></li><li><a href="contests.html">Contests &amp; Prizes</a></li><li><a href="careers.html">Careers &amp; Creators</a></li><li><a href="partners.html">Partners &amp; Advertising</a></li></ul></div>
+<div><h4>About</h4><ul><li><a href="about.html">About</a></li><li><a href="contact.html">Contact</a></li><li><a href="privacy.html">Privacy Policy</a></li><li><a href="terms.html">Terms of Use</a></li><li><a href="disclaimer.html">Disclaimer &amp; Trademarks</a></li></ul></div>
+</div>
+<div class="legal">
+<p><strong>Independence notice:</strong> Learning-Express is an independent, free educational website. It is not affiliated with, endorsed by, or sponsored by EBSCO, “LearningExpress”, “LearningExpress Library”, or any test publisher, university, course platform or YouTube creator mentioned. All third-party names and marks belong to their owners and are used only to identify their free resources. <a href="disclaimer.html">Full disclosure</a>.</p>
+<p>© <span data-year>2026</span> Learning-Express. Original text, design and tools on this site are protected by copyright. Embedded videos remain the property of their creators and are shown via YouTube’s official embed player.</p>
+</div>
+</div></footer>
+<div class="cookie" id="cookie" role="dialog" aria-label="Cookie preferences">
+<p><strong>Cookies & ads.</strong> We use cookies for basic site functions and Google AdSense, which may personalize ads. Choose “Essential only” for non-personalized ads. <a href="privacy.html#cookies">Learn more</a>.</p>
+<div class="acts"><button class="btn sm" data-consent="all">Accept all</button><button class="btn sm ghost" data-consent="essential">Essential only</button></div>
+</div>
+{NL_MODAL}
+<div class="sticky-cta"><a class="btn signal" href="match.html" style="color:#fff">Get my free program match →</a></div>
+<script src="assets/js/main.js" defer></script>
+{extra_js}
+</body>
+</html>
+'''
+
+def page(path, title, desc, body, active=None, extra_js="", ld=None, og_type="website"):
+    return head(title, desc, path, ld, og_type) + header(active or path) + body + footer(extra_js)
+
+def honeypot():
+    return '<div class="hp" aria-hidden="true"><input name="_gotcha" tabindex="-1" autocomplete="off"></div>'
