@@ -1,1 +1,1737 @@
-{"updated": null, "items": [], "channels": []}
+{
+ "updated": "2026-11-26T09:05:37.986298+00:00",
+ "items": [
+  {
+   "id": "1H0dUXuzOUI",
+   "title": "Using Improved Euler's Method (Differential Equations 45)",
+   "channel": "Professor Leonard",
+   "cats": [
+    "math"
+   ],
+   "date": "2026-11-26T00:00:13+00:00",
+   "desc": "Using Improved Euler's Method (Differential Equations 45) Exploring the use of Improved Euler's Method to numerically approximate first order differential equa…"
+  },
+  {
+   "id": "Pb7N0IAGHvk",
+   "title": "German Small Talk for Beginners",
+   "channel": "Easy German",
+   "cats": [
+    "lang"
+   ],
+   "date": "2026-11-25T18:00:10+00:00",
+   "desc": "Practice the smalltalk phrases from this episode with our free worksheet: https://easygerman.link/seg321-free-worksheet --- LEARN MORE GERMAN WITH US: 💡 JOIN O…"
+  },
+  {
+   "id": "Jatwf_XOncE",
+   "title": "17 million lines of AI slop just cracked a 167-year-old math problem...",
+   "channel": "Fireship",
+   "cats": [
+    "web",
+    "ai"
+   ],
+   "date": "2026-11-25T17:19:51+00:00",
+   "desc": "Start a free 14-day CodeRabbit Explain trial, no credit card required: https://coderabbit.link/fireship-012 A 41 day conversation with Claude just spat out 17 …"
+  },
+  {
+   "id": "vghv2DLGvVg",
+   "title": "The 9-5 Trap, Explained",
+   "channel": "Ali Abdaal",
+   "cats": [
+    "study",
+    "biz",
+    "job"
+   ],
+   "date": "2026-11-25T17:19:32+00:00",
+   "desc": "Check out Manychat for free or use the code ALIABDAAL for a free 30-day trial of Manychat Pro: https://manychat.com/creators?utm_source=influencer&utm_medium=c…"
+  },
+  {
+   "id": "1xo38JoFp9U",
+   "title": "Which AI Is The Best Platform To Advertise On In 2027?",
+   "channel": "Neil Patel",
+   "cats": [
+    "mkt",
+    "biz"
+   ],
+   "date": "2026-11-25T17:00:37+00:00",
+   "desc": "Ads are moving into AI, and every platform wants your budget. In this video, I break down how your ads get into Google's AI Mode, why the early ChatGPT ad numb…"
+  },
+  {
+   "id": "WbM7GP7QoEM",
+   "title": "Scientists Said This Wave Was Impossible",
+   "channel": "Veritasium",
+   "cats": [
+    "sci"
+   ],
+   "date": "2026-11-25T14:00:52+00:00",
+   "desc": "Do monster waves really exist? Sponsored by KiwiCo - Use code VERITASIUM at https://kiwico.com/veritasium for 50% off your first monthly crate. Last year, we l…"
+  },
+  {
+   "id": "8HpWj0E2d_0",
+   "title": "My Last Ahrefs Video",
+   "channel": "Ahrefs",
+   "cats": [
+    "mkt"
+   ],
+   "date": "2026-11-25T13:00:08+00:00",
+   "desc": "Before I sign off AhrefsTV, I am revealing the 3 data-backed AI and SEO predictions I am staking my career on. Additional Resources: ► https://www.youtube.com/…"
+  },
+  {
+   "id": "hwWlEuI359w",
+   "title": "Claude AI’s Biggest Math Breakthrough Has A Problem.",
+   "channel": "Two Minute Papers",
+   "cats": [
+    "ai"
+   ],
+   "date": "2026-11-25T09:54:23+00:00",
+   "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://nasqret.github.io/riemann-rev/guide/…"
+  },
+  {
+   "id": "1IVlILdETAw",
+   "title": "What happens if you accidentally eat moldy food? - Josephine Wee",
+   "channel": "TED-Ed",
+   "cats": [
+    "sci",
+    "study"
+   ],
+   "date": "2026-11-24T16:01:11+00:00",
+   "desc": "Explore how mold spores form and grow, the difference between harmful and helpful molds, and which are dangerous to eat. -- You open your fridge to grab a snac…"
+  },
+  {
+   "id": "rCx4SCd4N-s",
+   "title": "Microsoft Azure AI Fundamentals (AI-901) Certification Course",
+   "channel": "freeCodeCamp",
+   "cats": [
+    "web",
+    "data",
+    "ai"
+   ],
+   "date": "2026-11-24T15:35:26+00:00",
+   "desc": "Prepare to pass the Microsoft Azure AI Fundamentals (AI-901) exam. As a candidate for this Microsoft Certification, you’re at the beginning of your career in A…"
+  },
+  {
+   "id": "PuVvSLVkq5k",
+   "title": "AIDS Defining Illnesses | Clinical Medicine",
+   "channel": "Ninja Nerd",
+   "cats": [
+    "care"
+   ],
+   "date": "2026-11-24T15:00:09+00:00",
+   "desc": "Premium Member Resources: https://ninjanerd.org Ninja Nerds! In this lecture, Professor Zach Murphy delivers a comprehensive, high-yield breakdown of AIDS-Defi…"
+  },
+  {
+   "id": "-ieJwYq4j-o",
+   "title": "How To Build A Jet Engine From Scratch",
+   "channel": "Y Combinator",
+   "cats": [
+    "biz"
+   ],
+   "date": "2026-11-24T15:00:08+00:00",
+   "desc": "On November 21, 2026, Boom Supersonic (YC W16) fired its prototype engine core for the first time. In this episode of Hard Tech, YC’s Jared Friedman goes insid…"
+  },
+  {
+   "id": "e0EGefCi7GE",
+   "title": "It’s Boring, But These 8 AI Plugins Save You 10 Hours a Week",
+   "channel": "Jeff Su",
+   "cats": [
+    "job",
+    "ai"
+   ],
+   "date": "2026-11-24T13:00:10+00:00",
+   "desc": "🎙️ Get an entire month of Wispr Flow Pro for free - https://ref.wisprflow.ai/jeff-su-yt-2 Most AI plugins look impressive in a demo, then sit unused. These are…"
+  },
+  {
+   "id": "MOxAj1s7wGA",
+   "title": "Traumatic Brain Injury Explained: Pathophysiology, Types, Diagnosis & Treatment",
+   "channel": "Osmosis",
+   "cats": [
+    "care"
+   ],
+   "date": "2026-11-24T11:00:07+00:00",
+   "desc": "Explore our full video library, Qbank, study schedule, and other powerful learning tools free for seven days: https://osms.it/trial. Join millions of current a…"
+  },
+  {
+   "id": "jP9yjEDlc4k",
+   "title": "Opus just lost to the last company you'd expect...",
+   "channel": "Fireship",
+   "cats": [
+    "web",
+    "ai"
+   ],
+   "date": "2026-11-23T19:14:30+00:00",
+   "desc": "Railway is the smoothest way to deploy software: https://railway.com/?referralCode=fireship Google just dropped Gemini 4 Neon, a mid tier model that somehow ou…"
+  },
+  {
+   "id": "PiwBdhcpsxQ",
+   "title": "If I Lost Everything, Here's EXACTLY How I'd Make $100K Fast",
+   "channel": "Ali Abdaal",
+   "cats": [
+    "study",
+    "biz",
+    "job"
+   ],
+   "date": "2026-11-23T13:14:27+00:00",
+   "desc": "🚀 Join our 8-week Lifestyle Business Launchpad Challenge 👉 https://go.lifestylebusiness.com/bf26-zero-desc 🧠 Superfocus: Our Ultimate Productivity System for P…"
+  },
+  {
+   "id": "1jPdehG3Hms",
+   "title": "Claude AI Solved The Secret Of Black Holes",
+   "channel": "Two Minute Papers",
+   "cats": [
+    "ai"
+   ],
+   "date": "2026-11-23T07:37:52+00:00",
+   "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://www.anthropic.com/research/claude-bl…"
+  },
+  {
+   "id": "VlACZMlkWCo",
+   "title": "Is Stuttgart a Good Place to Live?",
+   "channel": "Easy German",
+   "cats": [
+    "lang"
+   ],
+   "date": "2026-11-22T18:00:03+00:00",
+   "desc": "Thanks to our sponsor italki! Use code EASYGERMAN9 to get €5 off your first lesson (minimum spend €10): https://go.italki.com/easygerman9 (Ad) --- LEARN MORE G…"
+  },
+  {
+   "id": "Pul_ll7FXiw",
+   "title": "Sickle Cell Disease Explained: Pathophysiology, Symptoms, Diagnosis & Treatment",
+   "channel": "Osmosis",
+   "cats": [
+    "care"
+   ],
+   "date": "2026-11-22T11:00:15+00:00",
+   "desc": "Explore our full video library, Qbank, study schedule, and other powerful learning tools free for seven days: https://osms.it/trial. What is sickle cell diseas…"
+  },
+  {
+   "id": "zqzk43bSdDI",
+   "title": "We've been asking: “What if AI solved the Riemann Hypothesis?”",
+   "channel": "3Blue1Brown",
+   "cats": [
+    "math",
+    "ai"
+   ],
+   "date": "2026-11-22T02:02:12+00:00",
+   "desc": "Hypothetical no more Announcement by Levent Alpöge: https://alpo.ge/remark.pdf Announcement from Alessandro Maria Masullo on his work on GHR: https://sites.goo…"
+  },
+  {
+   "id": "rMaMe32qQkA",
+   "title": "If you’ve deployed anything since 2015, I have bad news...",
+   "channel": "Fireship",
+   "cats": [
+    "web",
+    "ai"
+   ],
+   "date": "2026-11-20T19:49:02+00:00",
+   "desc": "Paper gives your coding agent a design canvas built on real HTML and CSS. Try it: https://paper.design/?utm_source=youtube&utm_medium=sponsor&utm_campaign=fire…"
+  },
+  {
+   "id": "Y0-xv7bNVvU",
+   "title": "This One AI Prompt Will Organise Your Entire Life",
+   "channel": "Ali Abdaal",
+   "cats": [
+    "study",
+    "biz",
+    "job"
+   ],
+   "date": "2026-11-20T14:09:27+00:00",
+   "desc": "Try Waking Up free for 14 days 👉 https://www.wakingup.com/aliabdaal 🚀 Join our 8-week Lifestyle Business Launchpad Challenge 👉 https://go.lifestylebusiness.com…"
+  },
+  {
+   "id": "RHamb6fs1CQ",
+   "title": "Testing an engineering design | Middle school science | Khan Academy",
+   "channel": "Khan Academy",
+   "cats": [
+    "math",
+    "sci",
+    "fin"
+   ],
+   "date": "2026-11-20T13:09:36+00:00",
+   "desc": "Engineers use physical models and computer simulations to test designs and predict performance. Controlled, repeated tests provide data for evaluating solution…"
+  },
+  {
+   "id": "Qxor6jpfSiU",
+   "title": "The only software that didn’t break this week...",
+   "channel": "Fireship",
+   "cats": [
+    "web",
+    "ai"
+   ],
+   "date": "2026-11-19T17:40:33+00:00",
+   "desc": "Use all your coding agents side by side in one IDE with JetBrains Air: https://jb.gg/JetBrainsAir-in-IDEs Solid 2.0 is the framework's first major release in o…"
+  },
+  {
+   "id": "BjsOyW1Frd8",
+   "title": "Explain Your Thinking - Khan Academy Interim Assessments",
+   "channel": "Khan Academy",
+   "cats": [
+    "math",
+    "sci",
+    "fin"
+   ],
+   "date": "2026-11-19T17:25:12+00:00",
+   "desc": "Check out our latest assessment feature: Explain Your Thinking (EYT)! In this video, Peter from the Khan Academy assessments team introduces Khanductor, our ne…"
+  },
+  {
+   "id": "SHANpVC2IA8",
+   "title": "Building the Bay Area's First New Medical School in More Than A Century: Dr. Lindsay Mazotti, Pla...",
+   "channel": "Osmosis",
+   "cats": [
+    "care"
+   ],
+   "date": "2026-11-19T17:19:15+00:00",
+   "desc": "Many medical students gain their first clinical experience through what Dr. Lindsay Mazotti calls a \"teabag approach.\" They drop into a hospital, immerse thems…"
+  },
+  {
+   "id": "TMTLNFv5MQE",
+   "title": "The Geology of Mars: Crash Course Geology #25",
+   "channel": "CrashCourse",
+   "cats": [
+    "sci",
+    "study",
+    "biz"
+   ],
+   "date": "2026-11-19T17:00:09+00:00",
+   "desc": "There’s no place like Earth—is there? In this episode of Crash Course Geology, we’ll learn about a rock that NASA calls “the closest we have ever come to disco…"
+  },
+  {
+   "id": "fqL9dt6QHWg",
+   "title": "5 of the most dangerous scientific discoveries - Shannon Odell",
+   "channel": "TED-Ed",
+   "cats": [
+    "sci",
+    "study"
+   ],
+   "date": "2026-11-19T15:59:54+00:00",
+   "desc": "Dig into the bold self-experimentation of 5 scientists, and how their discoveries led to scientific breakthroughs in medicine. -- The history of science is fil…"
+  },
+  {
+   "id": "lwfewYL7X0o",
+   "title": "Jacob Coxon vs. Robin Hanson: Should We Slow Down AI?",
+   "channel": "Y Combinator",
+   "cats": [
+    "biz"
+   ],
+   "date": "2026-11-19T15:00:34+00:00",
+   "desc": "Should governments intervene to substantially slow the progress of frontier AI? In the inaugural YC debate, Jacob Coxon, an ex-Anthropic and OpenAI researcher,…"
+  },
+  {
+   "id": "BAbsHO9MabI",
+   "title": "Google's New Rules for Getting Customers",
+   "channel": "Neil Patel",
+   "cats": [
+    "mkt",
+    "biz"
+   ],
+   "date": "2026-11-19T13:00:11+00:00",
+   "desc": "Your next customer could find your business through a Google search they never typed. And Google can now use your website to write your ads. In this video, I b…"
+  },
+  {
+   "id": "Cy7Wz6Z4TWU",
+   "title": "DeepMind Just Released The Best Thing AI Ever Did",
+   "channel": "Two Minute Papers",
+   "cats": [
+    "ai"
+   ],
+   "date": "2026-11-19T09:26:19+00:00",
+   "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind AlphaGenome paper is available here: https://deepmind.google…"
+  },
+  {
+   "id": "uXuQF_PPg5U",
+   "title": "Randomness is a lie. Let me explain",
+   "channel": "Veritasium",
+   "cats": [
+    "sci"
+   ],
+   "date": "2026-11-18T20:29:44+00:00",
+   "desc": "Is anything random? Sponsored by Hostinger. Go to https://hostinger.com/veritasium and use code VERITASIUM for an additional 10% off. For more on Bell tests, w…"
+  },
+  {
+   "id": "xQSTwehQdCc",
+   "title": "Creating a relative frequency table for one categorical variable | AP Statistics | Khan Academy",
+   "channel": "Khan Academy",
+   "cats": [
+    "math",
+    "sci",
+    "fin"
+   ],
+   "date": "2026-11-18T19:25:05+00:00",
+   "desc": "Sal shows how to turn counts for a single categorical variable into proportions in a relative frequency table."
+  },
+  {
+   "id": "OnnWywg0q3Y",
+   "title": "Classifying discrete and continuous variables | AP Statistics | Khan Academy",
+   "channel": "Khan Academy",
+   "cats": [
+    "math",
+    "sci",
+    "fin"
+   ],
+   "date": "2026-11-18T19:25:04+00:00",
+   "desc": "Sal shows how to classify a quantitative variable as discrete or continuous, and give the reason for the classification."
+  },
+  {
+   "id": "ZU7lZAaNgVA",
+   "title": "Sampling with and without replacement | AP Statistics | Khan Academy",
+   "channel": "Khan Academy",
+   "cats": [
+    "math",
+    "sci",
+    "fin"
+   ],
+   "date": "2026-11-18T19:25:04+00:00",
+   "desc": "Sal shows how to classify a described sampling procedure as with or without replacement."
+  },
+  {
+   "id": "apc8jmzOqzE",
+   "title": "Identifying a census | AP Statistics | Khan Academy",
+   "channel": "Khan Academy",
+   "cats": [
+    "math",
+    "sci",
+    "fin"
+   ],
+   "date": "2026-11-18T19:25:04+00:00",
+   "desc": "Sal shows how to decide whether a described data collection method is a census, by naming the population and checking that every individual in it was recorded."
+  },
+  {
+   "id": "svtSFmcX9fo",
+   "title": "Driving Lesson in Slow German",
+   "channel": "Easy German",
+   "cats": [
+    "lang"
+   ],
+   "date": "2026-11-18T18:00:06+00:00",
+   "desc": "Practice vocab more effectively with our partner app Seedlang: https://seedlang.com/promotion/seg-320 --- Vielen Dank an Tolga und die Fahrschule Mobil werden …"
+  },
+  {
+   "id": "KSZz4DPIj50",
+   "title": "GTA VI | The CS50 Show with David J. Malan | Season 1, Episode 3",
+   "channel": "CS50",
+   "cats": [
+    "web",
+    "ai"
+   ],
+   "date": "2026-11-18T17:00:11+00:00",
+   "desc": "In today's episode, an Exponential Time Hypothesis, a 10-year-old bug, Nvidia in the news, and a tour of CS50's new studio. But first, gamers around the world …"
+  },
+  {
+   "id": "0Hvs6-XODgU",
+   "title": "Ramp’s Bet on the 100x Employee",
+   "channel": "Y Combinator",
+   "cats": [
+    "biz"
+   ],
+   "date": "2026-11-18T15:00:24+00:00",
+   "desc": "Ramp started with a simple promise: help companies save time and money. Seven years later, it’s a $60 billion platform running the financial operations of tens…"
+  },
+  {
+   "id": "ybe6EGe_wjo",
+   "title": "Learn Data Structures and Algorithms in Python with Visualizations",
+   "channel": "freeCodeCamp",
+   "cats": [
+    "web",
+    "data",
+    "ai"
+   ],
+   "date": "2026-11-18T12:37:46+00:00",
+   "desc": "Learn data structures and algorithms in Python in this beginner's course. This course covers arrays, linked lists, stacks, queues, hash tables, trees, heaps, a…"
+  },
+  {
+   "id": "euwIxfkAJMU",
+   "title": "Principal Component Analysis (PCA): Concepts and Code",
+   "channel": "StatQuest",
+   "cats": [
+    "data",
+    "ai"
+   ],
+   "date": "2026-11-18T05:02:49+00:00",
+   "desc": "Sign up for FREE Concepts and Code Livestreams at: https://live.statquest.org/masterclasses You can play with the PCA code here: https://github.com/StatQuest/c…"
+  },
+  {
+   "id": "DC5l7pXDQVo",
+   "title": "Why Does Congress Skew Older Than the Public?: Crash Course US Government #8",
+   "channel": "CrashCourse",
+   "cats": [
+    "sci",
+    "study",
+    "biz"
+   ],
+   "date": "2026-11-17T17:00:04+00:00",
+   "desc": "Congress is more diverse than it was a hundred, fifty, or even ten years ago. But it still doesn’t reflect the diversity of the United States. In this episode …"
+  },
+  {
+   "id": "qbsb9DpdZ6s",
+   "title": "This algorithm changed how I think about compression | Information theory, part 3",
+   "channel": "3Blue1Brown",
+   "cats": [
+    "math",
+    "ai"
+   ],
+   "date": "2026-11-17T16:43:16+00:00",
+   "desc": "Arithmetic codes and what they reflect about compression & intelligence Channel career fair: https://3b1b.com/talent New store items! https://3b1b.com/store Ea…"
+  },
+  {
+   "id": "L9GHmwO4-uw",
+   "title": "If You Have a Job, Start Selling Your Skills ASAP",
+   "channel": "Ali Abdaal",
+   "cats": [
+    "study",
+    "biz",
+    "job"
+   ],
+   "date": "2026-11-17T16:05:45+00:00",
+   "desc": "Try Brilliant's tutor for free 👉 https://brilliant.org/aliabdaal and get 20% off an annual Premium subscription 🚀 Join our 8-week Lifestyle Business Launchpad …"
+  },
+  {
+   "id": "dkocGur84i8",
+   "title": "The three words that power every device you own - Lane Gunderman",
+   "channel": "TED-Ed",
+   "cats": [
+    "sci",
+    "study"
+   ],
+   "date": "2026-11-17T16:00:59+00:00",
+   "desc": "Learn more at https://brilliant.org/TedEd -- In the 1840s, George Boole created a branch of algebra that allowed mathematicians to input logical claims and mat…"
+  },
+  {
+   "id": "uqFwmaLoQcw",
+   "title": "Building Climate and Energy Resilience through Education Live Webcast",
+   "channel": "MIT OpenCourseWare",
+   "cats": [
+    "math",
+    "sci",
+    "ai"
+   ],
+   "date": "2026-11-17T15:23:41+00:00",
+   "desc": "An Open Conversation with Dr. Desirée Plata and Dr. Chris Raben Hosted by Curt Newton Understanding the connections between climate, energy, and economic growt…"
+  },
+  {
+   "id": "gl2U4fGTr6g",
+   "title": "OpenAI's New Breakthrough Is... Utter Chaos",
+   "channel": "Two Minute Papers",
+   "cats": [
+    "ai"
+   ],
+   "date": "2026-11-17T12:46:24+00:00",
+   "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://www.kitp.ucsb.edu/sites/default/file…"
+  },
+  {
+   "id": "lLWYU89bk2Y",
+   "title": "Pneumonia",
+   "channel": "Osmosis",
+   "cats": [
+    "care"
+   ],
+   "date": "2026-11-17T11:00:17+00:00",
+   "desc": "Explore our full video library, Qbank, study schedule, and other powerful learning tools free for seven days: https://osms.it/trial. What is Pneumonia? With pn…"
+  },
+  {
+   "id": "ytmawkPTP24",
+   "title": "Why Microsoft couldn’t fix its own servers for 36 hours...",
+   "channel": "Fireship",
+   "cats": [
+    "web",
+    "ai"
+   ],
+   "date": "2026-11-16T20:18:59+00:00",
+   "desc": "OpenRouter gives you one API for every AI model that routes and governs every request, so your AI is better, faster, and cheaper. Try it free: https://openrout…"
+  },
+  {
+   "id": "gG1Udn3trFA",
+   "title": "50 Seconds on ASCII",
+   "channel": "CS50",
+   "cats": [
+    "web",
+    "ai"
+   ],
+   "date": "2026-11-16T15:32:17+00:00",
+   "desc": "*** From the team that brought you CS50 at Harvard, Yale, and Oxford, this is the Fifty Foundation, led by David J. Malan et al. Theatrical courses in computer…"
+  },
+  {
+   "id": "4XqexiQSx_Y",
+   "title": "Reinforcement Learning with GRPO, Clearly Explained!!!",
+   "channel": "StatQuest",
+   "cats": [
+    "data",
+    "ai"
+   ],
+   "date": "2026-11-16T05:00:36+00:00",
+   "desc": "In 2024, the GRPO method for training Reasoning Models took the world by storm by simplifying the Reinforcement Learning stage of aligning a Large Language Mod…"
+  },
+  {
+   "id": "MN5GQvHMA5Y",
+   "title": "Learn German from the Streets of 🇦🇹 Bregenz",
+   "channel": "Easy German",
+   "cats": [
+    "lang"
+   ],
+   "date": "2026-11-15T18:00:01+00:00",
+   "desc": "Practice your spoken German with us as an Easy German Conversation Member: https://easygerman.link/membership_eg687 --- LEARN MORE GERMAN WITH US: 🎧 LISTEN TO …"
+  },
+  {
+   "id": "Mk4F9HCCh8A",
+   "title": "Ventricular septal defect",
+   "channel": "Osmosis",
+   "cats": [
+    "care"
+   ],
+   "date": "2026-11-15T11:00:01+00:00",
+   "desc": "Explore our full video library, Qbank, study schedule, and other powerful learning tools free for seven days: https://osms.it/trial. What is ventricular septal…"
+  },
+  {
+   "id": "XAebkWQpPvU",
+   "title": "Understanding Improved Euler's Method (Differential Equations 44)",
+   "channel": "Professor Leonard",
+   "cats": [
+    "math"
+   ],
+   "date": "2026-11-15T00:00:39+00:00",
+   "desc": "Understanding Improved Euler's Method (Differential Equations 44) How to improve this numerical approximation method for Differential Equations and make it muc…"
+  },
+  {
+   "id": "y1-9yeYLJUo",
+   "title": "The Rise Of AI Coworkers",
+   "channel": "Y Combinator",
+   "cats": [
+    "biz"
+   ],
+   "date": "2026-11-14T23:21:16+00:00",
+   "desc": "At SpaceXSI, Lauren Tan and Roman Ugarte are on the core team that took Grok Bot from first line of code to launch in seven weeks. It lets you spin up AI teamm…"
+  },
+  {
+   "id": "x7iwI6WfWS0",
+   "title": "AI Can Do Everything…Except This",
+   "channel": "Two Minute Papers",
+   "cats": [
+    "ai"
+   ],
+   "date": "2026-11-14T08:40:55+00:00",
+   "desc": "After finishing this song, it took me 3 months to gather the courage to stand in front of the camera to record it. Hope you Fellow Scholars enjoy it! Thank you…"
+  },
+  {
+   "id": "V6Vm1LU0kbQ",
+   "title": "Canada Just Made Some Big Tax Changes",
+   "channel": "The Plain Bagel",
+   "cats": [
+    "fin"
+   ],
+   "date": "2026-11-13T17:00:14+00:00",
+   "desc": "Budget 2026: https://budget.canada.ca/2026/report-rapport/pdf/budget-2026.pdf Budget Highlights: https://www.canada.ca/en/department-finance/news/2026/11/budge…"
+  },
+  {
+   "id": "8hiGWBQ94WU",
+   "title": "Lecture 5 on Topic 5: Viscosity of Glass",
+   "channel": "MIT OpenCourseWare",
+   "cats": [
+    "math",
+    "sci",
+    "ai"
+   ],
+   "date": "2026-11-13T15:13:31+00:00",
+   "desc": "MIT 3.071 Amorphous Materials, Spring 2025 Instructor: Juejun Hu View the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/ Y…"
+  },
+  {
+   "id": "MUn9aT8lOXA",
+   "title": "Lecture 6 on Topic 6: Glass Shaping",
+   "channel": "MIT OpenCourseWare",
+   "cats": [
+    "math",
+    "sci",
+    "ai"
+   ],
+   "date": "2026-11-13T15:13:31+00:00",
+   "desc": "MIT 3.071 Amorphous Materials, Spring 2025 Instructor: Juejun Hu View the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/ Y…"
+  },
+  {
+   "id": "08v3PPgmL0E",
+   "title": "Lecture 10 on Topic 8: Mechanical Properties",
+   "channel": "MIT OpenCourseWare",
+   "cats": [
+    "math",
+    "sci",
+    "ai"
+   ],
+   "date": "2026-11-13T15:13:28+00:00",
+   "desc": "MIT 3.071 Amorphous Materials, Spring 2025 Instructor: Juejun Hu View the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/ Y…"
+  },
+  {
+   "id": "FnNwGxlrt3U",
+   "title": "Lecture 2 on Topic 2: Classes of Amorphous Materials",
+   "channel": "MIT OpenCourseWare",
+   "cats": [
+    "math",
+    "sci",
+    "ai"
+   ],
+   "date": "2026-11-13T15:13:26+00:00",
+   "desc": "MIT 3.071 Amorphous Materials, Spring 2025 Instructor: Juejun Hu View the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/ Y…"
+  },
+  {
+   "id": "6q0qeDNrz6g",
+   "title": "Lecture 23 on Topic 15: Characterizing the Amorphous State",
+   "channel": "MIT OpenCourseWare",
+   "cats": [
+    "math",
+    "sci",
+    "ai"
+   ],
+   "date": "2026-11-13T15:13:24+00:00",
+   "desc": "MIT 3.071 Amorphous Materials, Spring 2025 Instructor: Juejun Hu View the complete course: https://ocw.mit.edu/courses/3-071-amorphous-materials-spring-2025/ Y…"
+  },
+  {
+   "id": "SOwUWPtXQ9I",
+   "title": "Jensen Huang just pulled out of Nvidia...",
+   "channel": "Fireship",
+   "cats": [
+    "web",
+    "ai"
+   ],
+   "date": "2026-11-12T21:17:10+00:00",
+   "desc": "Manufact is the easiest way to build and deploy your MCP. Get $100 in free credits: https://manufact.com/fireship Jensen Huang just resigned as Nvidia’s CEO fo…"
+  },
+  {
+   "id": "G2tBWRHif6Q",
+   "title": "How to Get Rich (My Talk at a Business School)",
+   "channel": "Ali Abdaal",
+   "cats": [
+    "study",
+    "biz",
+    "job"
+   ],
+   "date": "2026-11-12T17:42:05+00:00",
+   "desc": "Start your business through Stan. Unlock your 30-day free trial of Creator Pro at: https://www.stan.store/?ref=aliabdaal&utm_source=youtube&utm_medium=partner&…"
+  },
+  {
+   "id": "TCMw5m3LNAk",
+   "title": "How The Pitt’s Realism Impacts The Actors and The Audience: Shawn Hatosy, Emmy-Winning Actor and ...",
+   "channel": "Osmosis",
+   "cats": [
+    "care"
+   ],
+   "date": "2026-11-12T17:24:04+00:00",
+   "desc": "“When I’m working on The Pitt as an actor or director, there’s not a moment when I’m not thinking about what these medical professionals are experiencing day t…"
+  },
+  {
+   "id": "GJrG2AxmD3g",
+   "title": "How Humans Changed the Earth: Crash Course Geology #24",
+   "channel": "CrashCourse",
+   "cats": [
+    "sci",
+    "study",
+    "biz"
+   ],
+   "date": "2026-11-12T17:00:32+00:00",
+   "desc": "Are we in a new geological epoch? Some geologists think so–one marked by human impact on Earth. Others say we’re not there yet. Either way, what is clear is th…"
+  },
+  {
+   "id": "aDblEBU41nA",
+   "title": "Why is pepper such a popular spice? - Carolyn Beans",
+   "channel": "TED-Ed",
+   "cats": [
+    "sci",
+    "study"
+   ],
+   "date": "2026-11-12T16:01:11+00:00",
+   "desc": "Trace the history of pepper, and explore how this seasoning shaped empires to become one of the world's most popular spices. -- Thousands of years ago, people …"
+  },
+  {
+   "id": "gPNiuyYirfw",
+   "title": "DeepMind’s AI Just Did The Impossible",
+   "channel": "Two Minute Papers",
+   "cats": [
+    "ai"
+   ],
+   "date": "2026-11-12T13:41:41+00:00",
+   "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind paper AlphaProof Code is available here: https://deepmind.go…"
+  },
+  {
+   "id": "Fz8QARYt5Js",
+   "title": "Religion, Politics, and Sex Ed, Oh My! Crash Course’s Approach to Taboo Topics",
+   "channel": "CrashCourse",
+   "cats": [
+    "sci",
+    "study",
+    "biz"
+   ],
+   "date": "2026-11-11T19:59:21+00:00",
+   "desc": "The Crash Course team has taken on some divisive topics lately with our Sex Ed, Religion, and Big Questions on US Government series. Our editorial and producti…"
+  },
+  {
+   "id": "iXWSYlAX5Lg",
+   "title": "The Whistleblower Who Took on Theranos",
+   "channel": "Y Combinator",
+   "cats": [
+    "biz"
+   ],
+   "date": "2026-11-11T19:44:03+00:00",
+   "desc": "With Theranos and Elizabeth Holmes back in the conversation, we’re revisiting one of the most remarkable firsthand accounts of what actually happened inside th…"
+  },
+  {
+   "id": "w1D750m667k",
+   "title": "How I Used AI to Build a $1.5M Agency for Amish Dog Breeders",
+   "channel": "Ahrefs",
+   "cats": [
+    "mkt"
+   ],
+   "date": "2026-11-11T13:00:39+00:00",
+   "desc": "He scaled a niche agency to 1.5M in 16 months using AI agents, a growing team, and a custom hub. Chuck Holt tells how he did it and it's simpler than you might…"
+  },
+  {
+   "id": "EQr_eJOFy4Q",
+   "title": "Crash Course World History Marathon • Full Series",
+   "channel": "CrashCourse",
+   "cats": [
+    "sci",
+    "study",
+    "biz"
+   ],
+   "date": "2026-11-10T17:00:07+00:00",
+   "desc": "In Crash Course Marathons, we’re revisiting the series you love, in long-form videos that cover entire subjects from back to front. Crash Course World History …"
+  },
+  {
+   "id": "nBVuemyrMgE",
+   "title": "Is salt the most important ingredient in history? - Carolyn Beans",
+   "channel": "TED-Ed",
+   "cats": [
+    "sci",
+    "study"
+   ],
+   "date": "2026-11-10T16:01:00+00:00",
+   "desc": "Trace the influence of salt throughout human history, and explore how this essential seasoning shaped our civilizations. -- As early as the 1st millennium CE, …"
+  },
+  {
+   "id": "yrUTuZFAi2k",
+   "title": "HIV/AIDS | Clinical Medicine",
+   "channel": "Ninja Nerd",
+   "cats": [
+    "care"
+   ],
+   "date": "2026-11-10T15:00:29+00:00",
+   "desc": "Premium Member Resources: https://ninjanerd.org Ninja Nerds! In this lecture, Professor Zach Murphy delivers a comprehensive, high-yield breakdown of HIV/AIDS,…"
+  },
+  {
+   "id": "fEjvSbI_PT4",
+   "title": "Dying Is Complicated",
+   "channel": "Kurzgesagt",
+   "cats": [
+    "sci"
+   ],
+   "date": "2026-11-10T15:00:01+00:00",
+   "desc": "To get started planning a career that works on one of the world’s most pressing problems, sign up now at https://80000hours.org/inanutshell Get cozy with our n…"
+  },
+  {
+   "id": "9Hwanevuhd8",
+   "title": "6 Insanely Practical AI Tips (in 18 minutes)",
+   "channel": "Jeff Su",
+   "cats": [
+    "job",
+    "ai"
+   ],
+   "date": "2026-11-10T13:00:14+00:00",
+   "desc": "✅ Get HubSpot’s free guide, Use Claude like an AI Expert - https://clickhubspot.com/89c42f Tired of AI tips that go out of date as soon as a new model comes ou…"
+  },
+  {
+   "id": "ajfQWhGQGLE",
+   "title": "Codex & AI Coding Agents - Learn Agentic Coding",
+   "channel": "freeCodeCamp",
+   "cats": [
+    "web",
+    "data",
+    "ai"
+   ],
+   "date": "2026-11-10T12:00:39+00:00",
+   "desc": "Learn agentic coding with AI coding agents such as Codex: prompting, plan mode, skills, testing, Git, secrets, permissions and MCP in one hands-on course. ✏️ S…"
+  },
+  {
+   "id": "v7PUWJPqXWo",
+   "title": "Linear Discriminant Analysis (LDA): Concepts and Code",
+   "channel": "StatQuest",
+   "cats": [
+    "data",
+    "ai"
+   ],
+   "date": "2026-11-09T12:17:33+00:00",
+   "desc": "Sign up for FREE Concepts and Code Livestreams at: https://live.statquest.org/masterclasses ALSO, enrollment is now OPEN for the StatQuest Machine Learning Wor…"
+  },
+  {
+   "id": "-XL2gClQ2gg",
+   "title": "Is AI Now Good Enough To Cure Cancer? | YC Paper Club",
+   "channel": "Y Combinator",
+   "cats": [
+    "biz"
+   ],
+   "date": "2026-11-08T15:00:39+00:00",
+   "desc": "This week’s Paper Club is all about AI for biology. The cost of sequencing has collapsed, which means biology now generates more data than anyone can mine, and…"
+  },
+  {
+   "id": "uRCskQbL1KY",
+   "title": "I Ranked Every Productivity Tool From Worst to Best",
+   "channel": "Ali Abdaal",
+   "cats": [
+    "study",
+    "biz",
+    "job"
+   ],
+   "date": "2026-11-06T17:17:03+00:00",
+   "desc": "Try Lovable, the software creation tool for building real websites and apps: https://link.lovable.dev/8gZvrv8 🚀 Join our 8-week Lifestyle Business Launchpad Ch…"
+  },
+  {
+   "id": "eHHxRJulX74",
+   "title": "Godot 4 Roguelike Course – Build a Complete Top-Down Action Game",
+   "channel": "freeCodeCamp",
+   "cats": [
+    "web",
+    "data",
+    "ai"
+   ],
+   "date": "2026-11-06T15:22:02+00:00",
+   "desc": "Build a complete top-down action roguelike in Godot 4, from an empty project to a game a stranger can open and play. About 10 hours, 8 chapters, 31 lessons. Mo…"
+  },
+  {
+   "id": "FcY4QW_lyYo",
+   "title": "The Quest for Stardust: Crash Course Lecture",
+   "channel": "CrashCourse",
+   "cats": [
+    "sci",
+    "study",
+    "biz"
+   ],
+   "date": "2026-11-05T17:00:32+00:00",
+   "desc": "Is it possible to find cosmic dust on Earth? That’s the question jazz-musician-turned-citizen-scientist Jon Larsen set out to answer. Over the course of a deca…"
+  },
+  {
+   "id": "bw5tzcoEG88",
+   "title": "How to effectively use visuals in your presentation",
+   "channel": "TED-Ed",
+   "cats": [
+    "sci",
+    "study"
+   ],
+   "date": "2026-11-05T16:00:41+00:00",
+   "desc": "Episode 11: Explore the key components of strong visuals, how to effectively use them to bolster your presentation, and mistakes to avoid. -- This is episode 1…"
+  },
+  {
+   "id": "WdfNVxcs97o",
+   "title": "Why does e = 2.71828...? (Differential Equations 43)",
+   "channel": "Professor Leonard",
+   "cats": [
+    "math"
+   ],
+   "date": "2026-11-05T00:00:24+00:00",
+   "desc": "Why does e = 2.71828...? (Differential Equations 43) An exploration of the value of 'e', Euler's Number, using Euler's Method of numerical approximation. Suppo…"
+  },
+  {
+   "id": "C_UwDG2JKBQ",
+   "title": "PHP-ocalypse? | The CS50 Show with David J. Malan | Season 1, Episode 2",
+   "channel": "CS50",
+   "cats": [
+    "web",
+    "ai"
+   ],
+   "date": "2026-11-04T17:00:10+00:00",
+   "desc": "In today's episode, a worldwide scramble to update servers, cyberattacks on … freezers, and a trip to San Francisco. This is the CS50 Show, wherein we not only…"
+  },
+  {
+   "id": "KfODG5REyss",
+   "title": "I finally saw quantum physics with my own eyes... (It's spookier than I expected)",
+   "channel": "Veritasium",
+   "cats": [
+    "sci"
+   ],
+   "date": "2026-11-04T15:52:59+00:00",
+   "desc": "The world’s coldest liquid is far stranger than you’d imagine. Sponsored by Ground News - Go to https://ground.news/Ve and subscribe to get 40% off the unlimit…"
+  },
+  {
+   "id": "co4RBlWWov4",
+   "title": "7 Ways to Get Website Traffic, Explained in 10 Minutes",
+   "channel": "Ahrefs",
+   "cats": [
+    "mkt"
+   ],
+   "date": "2026-11-04T10:00:35+00:00",
+   "desc": "In this video, we go through the 7 ways to get traffic to your website and rank them by how much each one should shape your marketing strategy, using Ahrefs' o…"
+  },
+  {
+   "id": "4V2oDAxVjX0",
+   "title": "50 Seconds on HTTP Status Codes",
+   "channel": "CS50",
+   "cats": [
+    "web",
+    "ai"
+   ],
+   "date": "2026-11-03T14:06:22+00:00",
+   "desc": "*** From the team that brought you CS50 at Harvard, Yale, and Oxford, this is the Fifty Foundation, led by David J. Malan et al. Theatrical courses in computer…"
+  },
+  {
+   "id": "lR931Iz8Z6U",
+   "title": "Vector Databases Full Course for Beginners – Embeddings, Similarity Search & ChromaDB",
+   "channel": "freeCodeCamp",
+   "cats": [
+    "web",
+    "data",
+    "ai"
+   ],
+   "date": "2026-11-03T12:52:54+00:00",
+   "desc": "Learn how vector databases work, from the math behind vectors to building semantic search with ChromaDB. This beginner course covers vectors, cosine similarity…"
+  },
+  {
+   "id": "cqfl38Ip1ho",
+   "title": "How Ethical Hackers Actually Break Into Systems",
+   "channel": "freeCodeCamp",
+   "cats": [
+    "web",
+    "data",
+    "ai"
+   ],
+   "date": "2026-10-28T16:45:00+00:00",
+   "desc": "Throughout this hands-on ethical hacking crash course, you will learn the core Linux fundamentals and essential command-line tools needed to navigate and audit…"
+  },
+  {
+   "id": "6ZrgRjdJs3o",
+   "title": "The Numbers Behind Anthropic",
+   "channel": "The Plain Bagel",
+   "cats": [
+    "fin"
+   ],
+   "date": "2026-10-28T15:00:08+00:00",
+   "desc": "Link to prospectus: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm 00:00 - Introduction 02:06 - Founder Letter 03:16 -…"
+  },
+  {
+   "id": "Xl-yulnYZmI",
+   "title": "Support Vector Machines (SVM): Concepts and Code",
+   "channel": "StatQuest",
+   "cats": [
+    "data",
+    "ai"
+   ],
+   "date": "2026-10-28T12:13:51+00:00",
+   "desc": "Sign up for FREE Concepts and Code Livestreams at: https://live.statquest.org/masterclasses ALSO, here are the files for this livestream: https://github.com/St…"
+  },
+  {
+   "id": "5_Fayfx2NUM",
+   "title": "How I Survived Late-Stage Cancer (A Fun Story)",
+   "channel": "Kurzgesagt",
+   "cats": [
+    "sci"
+   ],
+   "date": "2026-10-27T15:00:01+00:00",
+   "desc": "Discover Odoo 👉 https://www.odoo.com/r/EgUR The first app is free for life. Thanks to Odoo for sponsoring this video! Support another year of kurzgesagt with a…"
+  },
+  {
+   "id": "Qj4WqjLxmg4",
+   "title": "Anatomy of the Abdomen | Quadrants, Regions, and Planes",
+   "channel": "Ninja Nerd",
+   "cats": [
+    "care"
+   ],
+   "date": "2026-10-27T14:00:33+00:00",
+   "desc": "Premium Member Resources: https://ninjanerd.org Ninja Nerds! In this lecture, Professor Zach Murphy presents on the Anatomy of the Abdomen. We begin with the b…"
+  },
+  {
+   "id": "ofzHbyxkpVg",
+   "title": "I knew AI + Notion would be good, but this... wow.",
+   "channel": "Jeff Su",
+   "cats": [
+    "job",
+    "ai"
+   ],
+   "date": "2026-10-27T13:02:29+00:00",
+   "desc": "Grab my free Cowork Toolkit: https://coworkacademy.ai/toolkit?utm_source=youtube&utm_medium=video&utm_campaign=v213 If your #AI keeps creating Notion pages you…"
+  },
+  {
+   "id": "6iBJnrAmpe0",
+   "title": "Using Euler's Method (Differential Equations 42)",
+   "channel": "Professor Leonard",
+   "cats": [
+    "math"
+   ],
+   "date": "2026-10-24T23:00:30+00:00",
+   "desc": "Using Euler's Method (Differential Equations 42) Exploring and understanding the use of Euler's Method to numerically approximate first order differential equa…"
+  },
+  {
+   "id": "eyZEqSPeMwg",
+   "title": "Relativity is so much weirder than we thought...",
+   "channel": "Veritasium",
+   "cats": [
+    "sci"
+   ],
+   "date": "2026-10-23T18:46:44+00:00",
+   "desc": "Can atomic clocks prove Einstein wrong? The biggest protection in the game! Go to https://NordVPN.com/veritasium and get an exclusive NordVPN deal + 4 extra mo…"
+  },
+  {
+   "id": "AgypoO13DJ0",
+   "title": "Triple BAM! Live with Jon Krohn, Josh Starmer, and Luis Serrano!",
+   "channel": "StatQuest",
+   "cats": [
+    "data",
+    "ai"
+   ],
+   "date": "2026-10-23T04:12:49+00:00",
+   "desc": "If you'd like to support StatQuest, please consider... Patreon: https://www.patreon.com/statquest ...or... YouTube Membership: https://www.youtube.com/channel/…"
+  },
+  {
+   "id": "27JRiGRlVaQ",
+   "title": "The Impact of Alberta's Referendum Results",
+   "channel": "The Plain Bagel",
+   "cats": [
+    "fin"
+   ],
+   "date": "2026-10-22T16:57:57+00:00",
+   "desc": "Alberta just had its independence referendum - today, we'll discuss the results, and what it means for Alberta, Canada, and Quebec. DISCLAIMER: This channel is…"
+  },
+  {
+   "id": "QZXh4TMm58A",
+   "title": "How I Make $32M A Year Dominating This SEO Niche",
+   "channel": "Ahrefs",
+   "cats": [
+    "mkt"
+   ],
+   "date": "2026-10-21T13:00:00+00:00",
+   "desc": "His agency does $32M a year dominating personal injury SEO, not competing - here is the playbook Chris Dreyer used to own his niche and what it took to get the…"
+  },
+  {
+   "id": "PXbVn-f_wuM",
+   "title": "You Will Only Like Half of This Video",
+   "channel": "Kurzgesagt",
+   "cats": [
+    "sci"
+   ],
+   "date": "2026-10-20T14:00:11+00:00",
+   "desc": "Want to support our craft and save our asses? This is the best way: https://shop.kgs.link/Calendar27 Our 12,027 Human Era Calendar is out now, giving you somet…"
+  },
+  {
+   "id": "h3ajVyC5vJc",
+   "title": "Breaking Down My Investment Portfolio",
+   "channel": "Ben Felix",
+   "cats": [
+    "fin"
+   ],
+   "date": "2026-10-18T10:00:22+00:00",
+   "desc": "How I invest my own money, and where my views on money come from. I walk through my whole balance sheet: one global equity fund, a private equity stake in the …"
+  },
+  {
+   "id": "LKrwhjOI8Nc",
+   "title": "There's never been a better time to go into math",
+   "channel": "3Blue1Brown",
+   "cats": [
+    "math",
+    "ai"
+   ],
+   "date": "2026-10-16T16:15:20+00:00",
+   "desc": "Sharing a few thoughts on the future of math These videos are funded directly by viewers: https://3b1b.co/support An equally valuable form of support is to sim…"
+  },
+  {
+   "id": "LV619RQ5rp4",
+   "title": "Introduction to Euler's Method (Differential Equations 41)",
+   "channel": "Professor Leonard",
+   "cats": [
+    "math"
+   ],
+   "date": "2026-10-14T23:00:08+00:00",
+   "desc": "Introduction to Euler's Method (Differential Equations 41) An introduction to numerical methods of approximation for Differential Equations that cannot be solv…"
+  },
+  {
+   "id": "BEdi_SkzY5Q",
+   "title": "STI | Chlamydia | Clinical Medicine",
+   "channel": "Ninja Nerd",
+   "cats": [
+    "care"
+   ],
+   "date": "2026-10-13T14:00:15+00:00",
+   "desc": "Premium Member Resources: https://ninjanerd.org Ninja Nerds! In this lecture, Professor Zach Murphy breaks down Chlamydia with a clear, high-yield approach foc…"
+  },
+  {
+   "id": "HdI_aYzgJIg",
+   "title": "Personal Agents, Clearly Explained",
+   "channel": "Jeff Su",
+   "cats": [
+    "job",
+    "ai"
+   ],
+   "date": "2026-10-13T13:00:11+00:00",
+   "desc": "📧 Join my free AI Essentials newsletter - https://www.jeffsu.org/newsletter/?utm_source=youtube&utm_medium=video&utm_campaign=v212 Already using #ChatGPT, Clau…"
+  },
+  {
+   "id": "NiCgcUTL9_Q",
+   "title": "Fiber Optics are so much cooler than I thought",
+   "channel": "Veritasium",
+   "cats": [
+    "sci"
+   ],
+   "date": "2026-10-12T17:11:45+00:00",
+   "desc": "Why making glass fibers to send signals was almost impossible. Sponsored by Saily - 🌎 Get an exclusive 15% discount on Saily data plans! Download Saily app go …"
+  },
+  {
+   "id": "0ZCVKL_PDsg",
+   "title": "How BAD Are Stock Valuations Really?",
+   "channel": "The Plain Bagel",
+   "cats": [
+    "fin"
+   ],
+   "date": "2026-10-09T16:25:33+00:00",
+   "desc": "Most everyone seems to believe that AI is in a bubble, and the S&P 500 is overvalued...but are they really? Today, we dive into what some popular gauges are ac…"
+  },
+  {
+   "id": "_y9JuojAIg0",
+   "title": "We Finally Know More About Humanity’s First Civilization",
+   "channel": "Kurzgesagt",
+   "cats": [
+    "sci"
+   ],
+   "date": "2026-10-08T14:07:00+00:00",
+   "desc": "IT’S HERE! The 12,027 Calendar just dropped on the kurzgesagt shop: https://shop.kgs.link/calendar27, and we’re so excited for you to see it. Get yours here, s…"
+  },
+  {
+   "id": "Cnj7oQwVDXo",
+   "title": "He Built A $10M+ SEO Empire. It Nearly Broke Him.",
+   "channel": "Ahrefs",
+   "cats": [
+    "mkt"
+   ],
+   "date": "2026-10-07T12:00:09+00:00",
+   "desc": "He built an 8 figure SEO empire with affiliate SEO, agencies and a global conference, but the dream nearly broke him, watch Matt Diggity reveal what being a se…"
+  },
+  {
+   "id": "ujkD4SxPKOI",
+   "title": "AI Just Crossed the Terrifying Line - Now What?",
+   "channel": "Kurzgesagt",
+   "cats": [
+    "sci"
+   ],
+   "date": "2026-10-05T14:58:58+00:00",
+   "desc": "In July of 2026, 700 AI agents hacked the infrastructure of Hugging Face in order to solve a task. This task was designed to be impossible to solve, so just wi…"
+  },
+  {
+   "id": "9rVIV2PUUyo",
+   "title": "Acceleration and Velocity with Resistance, Part 2 (Differential Equations 40)",
+   "channel": "Professor Leonard",
+   "cats": [
+    "math"
+   ],
+   "date": "2026-10-03T23:00:39+00:00",
+   "desc": "Acceleration and Velocity with Resistance, Part 2 (Differential Equations 40) When Acceleration is proportional to the square of velocity. Also discussed is Hy…"
+  },
+  {
+   "id": "ae2ylRZpkvA",
+   "title": "STI | Gonorrhea | Clinical Medicine",
+   "channel": "Ninja Nerd",
+   "cats": [
+    "care"
+   ],
+   "date": "2026-09-29T14:00:16+00:00",
+   "desc": "Premium Member Resources: https://ninjanerd.org Ninja Nerds! In this lecture, Zach Murphy breaks down Gonorrhea with a clear, high-yield approach focused on re…"
+  },
+  {
+   "id": "u_9OA3WRHgo",
+   "title": "Naive Bayes: Concepts and Code",
+   "channel": "StatQuest",
+   "cats": [
+    "data",
+    "ai"
+   ],
+   "date": "2026-09-29T13:29:57+00:00",
+   "desc": "Sign up for FREE Concepts and Code Classes at: https://live.statquest.org/masterclasses ALSO, you can download the files associated with this concepts and code…"
+  },
+  {
+   "id": "peP_o66u-vM",
+   "title": "Stop Organizing Files Yourself.",
+   "channel": "Jeff Su",
+   "cats": [
+    "job",
+    "ai"
+   ],
+   "date": "2026-09-29T13:00:30+00:00",
+   "desc": "📦 Try Dropbox in ChatGPT with your team: https://bit.ly/jeffsudropbox Every downloaded PDF becomes another file to rename and another folder to choose. In this…"
+  },
+  {
+   "id": "E7pl0tqzIUQ",
+   "title": "The Truth About Leveraged ETFs",
+   "channel": "Ben Felix",
+   "cats": [
+    "fin"
+   ],
+   "date": "2026-09-27T10:00:35+00:00",
+   "desc": "8:44 the chart title should have shown UPRO (3X), not SSO (2X) from the previous example. 9:12 the chart title should have shown EET (2X emerging markets). Sor…"
+  },
+  {
+   "id": "mzkdUnCThjc",
+   "title": "Investment Analyst Reacts to Finance TikToks - Doomsday Doomscrolling",
+   "channel": "The Plain Bagel",
+   "cats": [
+    "fin"
+   ],
+   "date": "2026-09-25T16:00:07+00:00",
+   "desc": "With all the market news and concern, what better time than now to review some finance TikToks? Thank you @gatortoday for finding several of these! My name is …"
+  },
+  {
+   "id": "EJj4CpzawPI",
+   "title": "Learn 80% of SEO in 14 Minutes",
+   "channel": "Ahrefs",
+   "cats": [
+    "mkt"
+   ],
+   "date": "2026-09-23T12:00:27+00:00",
+   "desc": "Give me 14 minutes to learn SEO the smart way, and you will walk away with the 5 fundamentals that drive 80% of real results in Google and get cited by AI too.…"
+  },
+  {
+   "id": "NxZ5gqvtT10",
+   "title": "The Clash Royale Biology of a Slime Blast",
+   "channel": "Ninja Nerd",
+   "cats": [
+    "care"
+   ],
+   "date": "2026-09-22T16:00:09+00:00",
+   "desc": "Premium Member Resources: https://ninjanerd.org Ninja Nerds! Did you know Clash Royale troops have attacks that can be explained by biology? Download the game …"
+  },
+  {
+   "id": "QW_jlUn4gA8",
+   "title": "This Is What a Godlike Civilization Would Look Like",
+   "channel": "Kurzgesagt",
+   "cats": [
+    "sci"
+   ],
+   "date": "2026-09-22T14:00:01+00:00",
+   "desc": "Want to restore the planet’s ecosystems and see your impact in monthly videos? The first 100 people to join Planet Wild with the code KURZGESAGT9 will get the …"
+  },
+  {
+   "id": "Nbwv5wHQoj0",
+   "title": "The last IMO problem AI could not solve",
+   "channel": "3Blue1Brown",
+   "cats": [
+    "math",
+    "ai"
+   ],
+   "date": "2026-09-18T17:12:53+00:00",
+   "desc": "A beautiful puzzle that eluded AI, and the intuition it requires. Check out our virtual career fair: https://3b1b.co/talent See new videos early: https://3b1b.…"
+  },
+  {
+   "id": "N1Fm4JYae1I",
+   "title": "Write a Killer Résumé in the AI Era: 5 New Rules!",
+   "channel": "Jeff Su",
+   "cats": [
+    "job",
+    "ai"
+   ],
+   "date": "2026-09-15T13:00:20+00:00",
+   "desc": "📨 Get 1% better at AI every week - https://www.jeffsu.org/newsletter/?utm_source=youtube&utm_medium=video&utm_campaign=v210 Finding reliable #résumé advice was…"
+  },
+  {
+   "id": "TdKK1f21xvA",
+   "title": "Who You Marry Is a Financial Decision",
+   "channel": "Ben Felix",
+   "cats": [
+    "fin"
+   ],
+   "date": "2026-09-13T10:00:38+00:00",
+   "desc": "Who you marry and how the two of you handle money together will shape your financial life as much as almost any investment decision you make. But finances are …"
+  },
+  {
+   "id": "v824SHV6COE",
+   "title": "AI's Hidden Debt Problem Explained",
+   "channel": "The Plain Bagel",
+   "cats": [
+    "fin"
+   ],
+   "date": "2026-09-11T17:23:15+00:00",
+   "desc": "Disclosure: Richard has ETF exposure to all the companies mentioned in the video, and directly owns shares of Alphabet, Meta and Microsoft. Link to spreadsheet…"
+  },
+  {
+   "id": "skc2T5fcoLY",
+   "title": "When Compounding Works Against You",
+   "channel": "Ben Felix",
+   "cats": [
+    "fin"
+   ],
+   "date": "2026-08-16T10:00:17+00:00",
+   "desc": "Most people save without knowing their real \"why.\" Free exercise for Canadians to find it. https://research-tools.pwlcapital.com/research/goals?utm_source=rese…"
+  },
+  {
+   "id": "3u-mP3C26mg",
+   "title": "The Biggest Myths in Personal Finance",
+   "channel": "Ben Felix",
+   "cats": [
+    "fin"
+   ],
+   "date": "2026-07-26T10:00:25+00:00",
+   "desc": "Some of the most repeated advice in personal finance is wrong. Saving as much as you can when you're young to benefit from compounding sounds obvious, but it i…"
+  },
+  {
+   "id": "GlYgs6v2YfU",
+   "title": "What is cross-entropy, and why is it used in ML? | Information theory, part 2",
+   "channel": "3Blue1Brown",
+   "cats": [
+    "math",
+    "ai"
+   ],
+   "date": "2026-07-16T11:56:04+00:00",
+   "desc": "Where the loss function for training LLMs comes from. Job opportunities aligned to this audience: https://3b1b.co/talent Early views and other perks for suppor…"
+  },
+  {
+   "id": "16eA5ebWMQQ",
+   "title": "Renting vs. Buying a Home: The Case for Owning",
+   "channel": "Ben Felix",
+   "cats": [
+    "fin"
+   ],
+   "date": "2026-07-12T10:00:20+00:00",
+   "desc": "*Check out the tools I used in the video:* *Risk Profiling Tool:* https://research-tools.pwlcapital.com/research/risk-profile?utm_source=research&utm_medium=pl…"
+  },
+  {
+   "id": "l6DKRf-fAAM",
+   "title": "Shannon's dream: The limit of compressibility | Information theory, part 1",
+   "channel": "3Blue1Brown",
+   "cats": [
+    "math",
+    "ai"
+   ],
+   "date": "2026-06-07T11:49:51+00:00",
+   "desc": "How to study the compressibility of language. Check out our virtual career fair: https://3b1b.co/talent See new projects before they go live: https://3b1b.co/s…"
+  },
+  {
+   "id": "PyYEHq4Dc5I",
+   "title": "GED Math Practice Test - Study Guide Review Prep",
+   "channel": "The Organic Chemistry Tutor",
+   "cats": [
+    "math",
+    "sci"
+   ],
+   "date": "2026-03-17T09:38:37+00:00",
+   "desc": "This video tutorial provides a GED math practice test. Full GED Math Review - 482 Questions: https://bit.ly/4pfiJa3 GED Math Review Parts: https://bit.ly/3P5ys…"
+  },
+  {
+   "id": "wLzl8qyOW-w",
+   "title": "Related Rates - Water Flows into a Cylindrical Tank",
+   "channel": "The Organic Chemistry Tutor",
+   "cats": [
+    "math",
+    "sci"
+   ],
+   "date": "2026-02-18T11:01:37+00:00",
+   "desc": "This calculus video tutorial explains how to solve a related rates problem where water flows into a cylindrical tank. Print The Test - 100 Questions: https://b…"
+  },
+  {
+   "id": "Xrlb3HlxX1A",
+   "title": "Derivatives of Inverse Hyperbolic Composite Trig Functions",
+   "channel": "The Organic Chemistry Tutor",
+   "cats": [
+    "math",
+    "sci"
+   ],
+   "date": "2026-02-17T11:01:00+00:00",
+   "desc": "This calculus video tutorial explains how to find the derivative of inverse hyperbolic composite trig functions. Print The Test - 100 Questions: https://bit.ly…"
+  },
+  {
+   "id": "Kp-WbosWM2w",
+   "title": "How to Evaluate the Derivative of an Inverse Function",
+   "channel": "The Organic Chemistry Tutor",
+   "cats": [
+    "math",
+    "sci"
+   ],
+   "date": "2026-02-16T11:00:25+00:00",
+   "desc": "This calculus video tutorial explains how to evaluate the derivative of an inverse function. Print The Test - 100 Questions: https://bit.ly/3Zh7X86 Access The …"
+  },
+  {
+   "id": "29wLn0lFCWg",
+   "title": "The Normal Line, Tangent Line, Secant Line, Average and Instantaneous Rate of Change",
+   "channel": "The Organic Chemistry Tutor",
+   "cats": [
+    "math",
+    "sci"
+   ],
+   "date": "2026-02-15T11:00:03+00:00",
+   "desc": "This calculus video tutorial explains how to solve a problem that involves the normal line, tangent line, secant line, average rate of change, and instantaneou…"
+  },
+  {
+   "id": "IlRRvdK8aPA",
+   "title": "Finding the Linearization of Functions and Value Estimation Using Derivatives",
+   "channel": "The Organic Chemistry Tutor",
+   "cats": [
+    "math",
+    "sci"
+   ],
+   "date": "2026-02-14T11:00:34+00:00",
+   "desc": "This calculus video tutorial explains how to find the linearization of functions and value estimation using derivatives. Print The Test - 100 Questions: https:…"
+  },
+  {
+   "id": "A5oYUQ-pmQQ",
+   "title": "The ultimate guide to YouTube sponsorships and brand deals",
+   "channel": "Thomas Frank",
+   "cats": [
+    "study"
+   ],
+   "date": "2024-03-22T15:39:14+00:00",
+   "desc": "Join Nebula and take my Business 101 for Creators Class – https://nebula.tv/business-101-for-creators How do you get brand deals as a creator? How should you p…"
+  },
+  {
+   "id": "uED1nKnLBYo",
+   "title": "Why are you scrolling your phone in bed AGAIN?",
+   "channel": "Thomas Frank",
+   "cats": [
+    "study"
+   ],
+   "date": "2024-03-20T14:19:21+00:00",
+   "desc": "You don't need more self-discipline. You need to change your environment. ➡️ Watch These Next: -------- How to Wake Up Early Without Feeling Tired – https://ww…"
+  },
+  {
+   "id": "QUiXERZGLXA",
+   "title": "How to get everything you want this year",
+   "channel": "Thomas Frank",
+   "cats": [
+    "study"
+   ],
+   "date": "2024-01-26T15:56:40+00:00",
+   "desc": "The first 500 people to use my link will get a 1 month free trial of Skillshare: https://skl.sh/thomasfrank01241 Today I'll share a super-useful planning exerc…"
+  },
+  {
+   "id": "NpUuuT_EzSs",
+   "title": "I learned to code from scratch in 1 year. Here's how.",
+   "channel": "Thomas Frank",
+   "cats": [
+    "study"
+   ],
+   "date": "2023-11-24T18:03:38+00:00",
+   "desc": "Here's everything I used to learn how to code – free learning resources, tools, learning hacks, and a couple of secret weapons. 🧠 ULTIMATE BRAIN (Full Second-B…"
+  },
+  {
+   "id": "EGoiYHUvwSQ",
+   "title": "I left my 2 million-subscriber channel. My income doubled.",
+   "channel": "Thomas Frank",
+   "cats": [
+    "study"
+   ],
+   "date": "2023-10-20T16:25:05+00:00",
+   "desc": "Well hello there! In this video I discuss why I left this channel, how leaving helped to double my income, and what I've got planned for the future of this cha…"
+  },
+  {
+   "id": "j3Thqrcw_Ag",
+   "title": "How to Break Your Phone Addiction",
+   "channel": "Thomas Frank",
+   "cats": [
+    "study"
+   ],
+   "date": "2022-03-01T02:11:03+00:00",
+   "desc": "Spending less time on your phone: it's as simple as logging out. 📺 Watch this video ad-free on Nebula: https://nebula.app/videos/thomasfrank-how-to-break-your-…"
+  }
+ ],
+ "channels": [
+  {
+   "name": "Khan Academy",
+   "id": "UC4a-Gbdw7vOaccHmFo40b9g",
+   "cats": [
+    "math",
+    "sci",
+    "fin"
+   ],
+   "ok": true
+  },
+  {
+   "name": "CrashCourse",
+   "id": "UCX6b17PVsYBQ0ip5gyeme-Q",
+   "cats": [
+    "sci",
+    "study",
+    "biz"
+   ],
+   "ok": true
+  },
+  {
+   "name": "freeCodeCamp",
+   "id": "UC8butISFwT-Wl7EV0hUK0BQ",
+   "cats": [
+    "web",
+    "data",
+    "ai"
+   ],
+   "ok": true
+  },
+  {
+   "name": "TED-Ed",
+   "id": "UCsooa4yRKGN_zEE8iknghZA",
+   "cats": [
+    "sci",
+    "study"
+   ],
+   "ok": true
+  },
+  {
+   "name": "MIT OpenCourseWare",
+   "id": "UCEBb1b_L6zDS3xTUrIALZOw",
+   "cats": [
+    "math",
+    "sci",
+    "ai"
+   ],
+   "ok": true
+  },
+  {
+   "name": "CS50",
+   "id": "UCcabW7890RKJzL968QWEykA",
+   "cats": [
+    "web",
+    "ai"
+   ],
+   "ok": true
+  },
+  {
+   "name": "3Blue1Brown",
+   "id": "UCYO_jab_esuFRV4b17AJtAw",
+   "cats": [
+    "math",
+    "ai"
+   ],
+   "ok": true
+  },
+  {
+   "name": "Veritasium",
+   "id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+   "cats": [
+    "sci"
+   ],
+   "ok": true
+  },
+  {
+   "name": "Kurzgesagt",
+   "id": "UCsXVk37bltHxD1rDPwtNM8Q",
+   "cats": [
+    "sci"
+   ],
+   "ok": true
+  },
+  {
+   "name": "Fireship",
+   "id": "UCsBjURrPoezykLs9EqgamOA",
+   "cats": [
+    "web",
+    "ai"
+   ],
+   "ok": true
+  },
+  {
+   "name": "StatQuest",
+   "id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+   "cats": [
+    "data",
+    "ai"
+   ],
+   "ok": true
+  },
+  {
+   "name": "Two Minute Papers",
+   "id": "UCbfYPyITQ-7l4upoX8nvctg",
+   "cats": [
+    "ai"
+   ],
+   "ok": true
+  },
+  {
+   "name": "Ali Abdaal",
+   "id": "UCoOae5nYA7VqaXzerajD0lg",
+   "cats": [
+    "study",
+    "biz",
+    "job"
+   ],
+   "ok": true
+  },
+  {
+   "name": "Thomas Frank",
+   "id": "UCG-KntY7aVnIGXYEBQvmBAQ",
+   "cats": [
+    "study"
+   ],
+   "ok": true
+  },
+  {
+   "name": "Y Combinator",
+   "id": "UCcefcZRL2oaA_uBNeo5UOWg",
+   "cats": [
+    "biz"
+   ],
+   "ok": true
+  },
+  {
+   "name": "Ahrefs",
+   "id": "UCWquNQV8Y0_defMKnGKrFOQ",
+   "cats": [
+    "mkt"
+   ],
+   "ok": true
+  },
+  {
+   "name": "Neil Patel",
+   "id": "UCl-Zrl0QhF66lu1aGXaTbfw",
+   "cats": [
+    "mkt",
+    "biz"
+   ],
+   "ok": true
+  },
+  {
+   "name": "The Plain Bagel",
+   "id": "UCFCEuCsyWP0YkP3CZ3Mr01Q",
+   "cats": [
+    "fin"
+   ],
+   "ok": true
+  },
+  {
+   "name": "Ben Felix",
+   "id": "UCDXTQ8nWmx_EhZ2v-kp7QxA",
+   "cats": [
+    "fin"
+   ],
+   "ok": true
+  },
+  {
+   "name": "Easy German",
+   "id": "UCbxb2fqe9oNgglAoYqsYOtQ",
+   "cats": [
+    "lang"
+   ],
+   "ok": true
+  },
+  {
+   "name": "Professor Leonard",
+   "id": "UCoHhuummRZaIVX7bD4t2czg",
+   "cats": [
+    "math"
+   ],
+   "ok": true
+  },
+  {
+   "name": "The Organic Chemistry Tutor",
+   "id": "UCEWpbFLzoYGPfuWUMFPSaoA",
+   "cats": [
+    "math",
+    "sci"
+   ],
+   "ok": true
+  },
+  {
+   "name": "Osmosis",
+   "id": "UCNI0qOojpkhsUtaQ4_2NUhQ",
+   "cats": [
+    "care"
+   ],
+   "ok": true
+  },
+  {
+   "name": "Ninja Nerd",
+   "id": "UC6QYFutt9cluQ3uSM963_KQ",
+   "cats": [
+    "care"
+   ],
+   "ok": true
+  },
+  {
+   "name": "Jeff Su",
+   "id": "UCwAnu01qlnVg1Ai2AbtTMaA",
+   "cats": [
+    "job",
+    "ai"
+   ],
+   "ok": true
+  }
+ ]
+}
