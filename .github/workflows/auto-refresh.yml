@@ -1,53 +1,63 @@
-name: Auto-refresh content
+name: Auto-refresh & deploy
 
 on:
+  push:
+    branches: [main]
   schedule:
     - cron: "17 5 * * *"   # daily 05:17 UTC
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - "build/**"
-      - "data/sources.json"
-      - "data/contests.json"
 
 permissions:
   contents: write
   pages: write
+  id-token: write
 
 concurrency:
-  group: auto-refresh
+  group: pages
   cancel-in-progress: false
 
 jobs:
-  refresh:
+  refresh-and-deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
       - name: Fetch latest videos and education news
         run: python3 scripts/update_feeds.py
+
       - name: Rebuild static pages
         run: python3 build/build.py
-      - name: Commit and push if changed
+
+      - name: Commit refreshed content
         run: |
           git config user.name "learning-express-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           if git diff --cached --quiet; then
-            echo "No changes."
+            echo "No content changes."
           else
             git commit -m "Auto-refresh: videos, news and pages ($(date -u +%Y-%m-%d))"
             git push
           fi
-      - name: Request GitHub Pages rebuild
-        if: always()
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          curl -s -o /dev/null -w "Pages build request: %{http_code}\n" -X POST \
-            -H "Authorization: Bearer $GH_TOKEN" -H "Accept: application/vnd.github+json" \
-            "https://api.github.com/repos/${{ github.repository }}/pages/builds" || true
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
