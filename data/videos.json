@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-26T09:34:19.484332+00:00",
+ "updated": "2026-11-27T15:15:24.211998+00:00",
  "items": [
+  {
+   "id": "u6UYsl-KEoc",
+   "title": "DeepMind’s New AI Just Changed The AI Race",
+   "channel": "Two Minute Papers",
+   "cats": [
+    "ai"
+   ],
+   "date": "2026-11-27T08:42:30+00:00",
+   "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The security report is available here: https://storage.googleapis.com/dee…"
+  },
   {
    "id": "1H0dUXuzOUI",
    "title": "Using Improved Euler's Method (Differential Equations 45)",
@@ -13,7 +23,7 @@
   },
   {
    "id": "Pb7N0IAGHvk",
-   "title": "German Small Talk for Beginners",
+   "title": "How to Make Small Talk in German",
    "channel": "Easy German",
    "cats": [
     "lang"
@@ -315,17 +325,6 @@
    "desc": "Should governments intervene to substantially slow the progress of frontier AI? In the inaugural YC debate, Jacob Coxon, an ex-Anthropic and OpenAI researcher,…"
   },
   {
-   "id": "BAbsHO9MabI",
-   "title": "Google's New Rules for Getting Customers",
-   "channel": "Neil Patel",
-   "cats": [
-    "mkt",
-    "biz"
-   ],
-   "date": "2026-11-19T13:00:11+00:00",
-   "desc": "Your next customer could find your business through a Google search they never typed. And Google can now use your website to write your ads. In this video, I b…"
-  },
-  {
    "id": "Cy7Wz6Z4TWU",
    "title": "DeepMind Just Released The Best Thing AI Ever Did",
    "channel": "Two Minute Papers",
@@ -461,7 +460,7 @@
   },
   {
    "id": "qbsb9DpdZ6s",
-   "title": "This algorithm changed how I think about compression | Information theory, part 3",
+   "title": "This algorithm changed how I think about compression | Compression & Intelligence, part 3",
    "channel": "3Blue1Brown",
    "cats": [
     "math",
@@ -733,16 +732,6 @@
    ],
    "date": "2026-11-12T16:01:11+00:00",
    "desc": "Trace the history of pepper, and explore how this seasoning shaped empires to become one of the world's most popular spices. -- Thousands of years ago, people …"
-  },
-  {
-   "id": "gPNiuyYirfw",
-   "title": "DeepMind’s AI Just Did The Impossible",
-   "channel": "Two Minute Papers",
-   "cats": [
-    "ai"
-   ],
-   "date": "2026-11-12T13:41:41+00:00",
-   "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind paper AlphaProof Code is available here: https://deepmind.go…"
   },
   {
    "id": "Fz8QARYt5Js",
@@ -1152,16 +1141,6 @@
    "desc": "📧 Join my free AI Essentials newsletter - https://www.jeffsu.org/newsletter/?utm_source=youtube&utm_medium=video&utm_campaign=v212 Already using #ChatGPT, Clau…"
   },
   {
-   "id": "NiCgcUTL9_Q",
-   "title": "Fiber Optics are so much cooler than I thought",
-   "channel": "Veritasium",
-   "cats": [
-    "sci"
-   ],
-   "date": "2026-10-12T17:11:45+00:00",
-   "desc": "Why making glass fibers to send signals was almost impossible. Sponsored by Saily - 🌎 Get an exclusive 15% discount on Saily data plans! Download Saily app go …"
-  },
-  {
    "id": "0ZCVKL_PDsg",
    "title": "How BAD Are Stock Valuations Really?",
    "channel": "The Plain Bagel",
@@ -1284,16 +1263,6 @@
    "desc": "Premium Member Resources: https://ninjanerd.org Ninja Nerds! Did you know Clash Royale troops have attacks that can be explained by biology? Download the game …"
   },
   {
-   "id": "QW_jlUn4gA8",
-   "title": "This Is What a Godlike Civilization Would Look Like",
-   "channel": "Kurzgesagt",
-   "cats": [
-    "sci"
-   ],
-   "date": "2026-09-22T14:00:01+00:00",
-   "desc": "Want to restore the planet’s ecosystems and see your impact in monthly videos? The first 100 people to join Planet Wild with the code KURZGESAGT9 will get the …"
-  },
-  {
    "id": "Nbwv5wHQoj0",
    "title": "The last IMO problem AI could not solve",
    "channel": "3Blue1Brown",
@@ -1357,7 +1326,7 @@
   },
   {
    "id": "GlYgs6v2YfU",
-   "title": "What is cross-entropy, and why is it used in ML? | Information theory, part 2",
+   "title": "What is cross-entropy, and why is it used in ML? | Compression & Intelligence, part 2",
    "channel": "3Blue1Brown",
    "cats": [
     "math",
@@ -1378,7 +1347,7 @@
   },
   {
    "id": "l6DKRf-fAAM",
-   "title": "Shannon's dream: The limit of compressibility | Information theory, part 1",
+   "title": "How to invent entropy | Compression & Intelligence, part 1",
    "channel": "3Blue1Brown",
    "cats": [
     "math",
